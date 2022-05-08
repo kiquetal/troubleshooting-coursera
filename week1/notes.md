@@ -18,4 +18,20 @@
 #### ltrace calls the library calls by the programs
 
 
+#### Steps
 
+ * Reproducible case
+ * Find the root cause
+ * Long-term solution
+
+
+#### Finding the Root Cause
+
+    
+
+#### Intermittent issues
+
+    More info whats going on
+    logging, add debug
+
+    
